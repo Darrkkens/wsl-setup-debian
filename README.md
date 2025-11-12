@@ -97,6 +97,9 @@ chmod +x wsl-setup-debian.sh
 
 # Execute com privilégios de root
 sudo ./wsl-setup-debian.sh
+
+# Execute dessa forma
+sudo -E bash ./wsl-setup-debian.sh
 ```
 
 ### Opções de Instalação
